@@ -1,1 +1,0 @@
-<a href="#"><img src="products/images/logo.png" class="img-responsive img1"></a>
