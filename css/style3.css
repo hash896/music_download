@@ -1,0 +1,354 @@
+.navbar-custom{
+		
+}
+body{
+	background:linear-gradient(#181818, #909090, #DCDCDC);
+}
+.nav{
+    background: #181818;
+}
+.nav1{
+    background:#DCDCDC;
+	padding:10px;
+}
+.brand{
+	height:40px;
+	width:200px;
+}
+.navbar-header{
+	font-style:helvetica;
+}
+.nav a:hover{
+	font:underline;
+}
+	.form-control{
+		margin-left:70px;
+		border-radius:5px;	
+		float:left;
+	}
+/**   -----------------------------               Search Bar          -----------------------------              */
+
+.main1{
+	width:100%;
+	height:100%;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+.lang{
+	padding-left:80px;
+	margin-bottom:0px;
+}
+.carousel{
+	overflow-x:hidden;
+	background:#303030;
+	border:3px solid ornage;
+	height:380px;
+}
+.carousel-inner{
+	margin-top:10px;
+}
+.carousel-inner img:hover{
+	-webkit-transition: width 0.5s;
+    transition: width 0.5s;
+	
+}
+.item img:hover{
+
+}
+.nav h3{
+	padding-left:14px;
+}
+.back_img{
+	background-color: rgba(0, 0, 0, 0.4);
+}
+/*  ------------------------------------------------------start of modal--------------------------------------------------*/
+.modal{
+	margin:150px;
+	margin-left:300px;
+	height:700px;
+	width:700px;
+}
+.modal-header{
+	background:#2f363d;
+}
+	.modal-header button{
+		float:right;
+		padding-right:220px;
+		padding-top:15px;
+	}
+	.modal-header button:hover{
+		color:red;
+	}
+	.nav5{
+		padding:10px;
+		padding-left:10px;
+	}
+	.nav5 button{
+		color:white;
+		font-size:40px;
+	}
+	.nav5 li{
+		padding:10px;
+		list-style:none;
+		font-size:30px;
+		color:black;
+	}
+	.nav5 a:hover{
+		font-weight:no-underline;
+	}
+.modal-body{
+	background:#6b7a89;
+}
+	
+	.modal-body label{
+		float:left;
+		font-size:16px;
+	}
+	.input1{
+		border-radius:2px;
+		width:400px;
+		height:30px;
+		padding-left:0px;
+		float:left;
+		padding-top:5px;
+	}
+.modal-footer{
+	background:#2f363d;
+	color:white;
+}
+.modal-footer button{
+	float:left;
+}
+.modal-footer p{
+	float:right;
+	padding-right:220px;
+	padding-top:10px;
+}
+/*  ------------------------------------------------------end of modal--------------------------------------------------*/
+
+.first{
+	width:100%;
+	height:400px;
+	color:white;
+}
+.first h3{
+	font-weight:bold;
+}
+.top{
+	height:250px;
+}
+	.top img{
+		height: 100%;
+		width: 100%;
+		margin-bottom :-165px;
+	    z-index : -1;
+	}
+	.play i{
+		height: 100%;
+		width: 100%;
+
+	    z-index : -1;
+	}
+	.play i{
+			  position : relative;
+			  width:200px;
+			  height:140px;
+			  z-index : 99;
+			  margin:0px 0px 0px 0px; 
+			  opacity : 0.0 ;
+			  border-radius: 50%;
+			} 
+	.top img:hover {
+			  opacity : 0.8;
+			}
+	.top i:hover {
+			  opacity : 0.8;
+			}
+.bottom{
+	height:50px;
+}
+.bottom h4{
+	word-wrap: break-word;
+}
+.bottom p{
+	color:#d6d6c2;
+}
+
+/**** -------------------------------------      bottom bar    -----------------------------------------------------*******/
+.bottom1{
+	background:cyan;
+	width:100%;
+	height:450px;
+	padding:100px 100px;
+}
+.up{
+	height:100px;
+}
+.left1{
+	float:left;
+	width:550px;
+	height:100px;
+}
+.left1 p{
+	font-size:20px;
+}
+.right1{
+	float:left;
+	width:550px;
+	height:100px;
+	padding-left:40px;
+}
+.right1 h2{
+	float:left;
+	padding-top:6px;
+	padding-right:5px;
+	padding-left:10px;
+}
+.right1 img{
+	padding-right:5px;
+	 border-radius: 50%;
+	 float:left;
+	 height:80px;
+	 width:80px;
+}
+#ul li:hover{
+	color:white;
+	}
+#a1,#a2,#a3,#a4,#a5,#a6{
+	color:black;
+	}
+#l1,#l2{
+	font-size:20px;
+	color:purple;
+	}
+#ul{
+		list-style:none;
+	}
+	#ul li{
+		font-size:13px;
+		float:left;
+	}
+	#li1{
+	margin-left:280px;
+	color:black;
+	}
+#p2{
+	font-size:20px;
+	padding-bottom:40px;
+	}
+
+
+
+
+/**------------------------------------------ bottom ------------------------------------------*/
+.nav2{
+	 background-color: black;
+}
+.nav5 i{
+	padding-top:5px;
+}
+.nav5 li{
+	padding:10px;
+	list-style:none;	
+}
+/** -----------------------------------------------------------------------list.php--------------------------------------**/
+.title button{
+	background:orange;
+	margin-top:100px;
+	width:200px;
+}
+.title span{
+	font-size:20px;
+}
+.title{
+	color:#3399ff;
+}
+/*-----------------------------------------------table------------------*/
+.table1{
+	padding-left:30px;
+	padding-top:20px;	
+}
+table{
+	width:800px;	
+}
+table, th, td{
+	border-bottom:2px solid black;
+	border-collapse:collapse;
+	
+}
+tbody tr:hover{
+	background:cyan;
+}
+td, th{
+	padding:10px;
+	vertical-align:bottom;
+}
+	
+.breadcrumb{
+	background:#181818;
+	margin-top:30px;
+	margin-bottom:0px;
+}
+
+
+/**------------------------------------------------------------progress function--------------------------------*/
+.nav_p1 {
+  width: 390px;
+  background-color: white;
+  height:15px;
+  border-radius:10px; 
+  margin-top:20px;
+  margin-left:0px;
+}
+#bar {
+  width: 30%;
+  height: 15px;
+  background-color: cyan;
+  color: white;
+  border-radius:10px;
+}
+.nav_p2 {
+  width: 90px;
+  background-color: white;
+  height:10px;
+  border-radius:5px; 
+  margin-left:0px;
+  margin-top:23px;
+}
+#bar1 {
+  width: 10%;
+  height: 10px;
+  background-color: cyan;
+  color: white;
+  border-radius:5px;
+}
+/**---------------------------------------------------volume--------------------------------------------**/
+.volu {
+    position:relative;
+    cursor:pointer;
+    width:100%;
+    height:20px;
+    float:left;
+    margin-top:10px;
+    margin-right:10px;
+    background-color:#000;
+}
+.volumeBar {
+    display:block;
+    height:20px;
+    position:absolute;
+    top:0;
+    left:0;
+    background-color:#888;
+    z-index:10;
+    width: 90%;
+}
+.volume3 {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 50px 100px;
+    border-color: transparent transparent #007bff transparent;
+    line-height: 0px;
+    _border-color: #000000 #000000 #007bff #000000;
+    _filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
+}
